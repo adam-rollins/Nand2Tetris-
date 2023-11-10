@@ -20,3 +20,11 @@ Project 5: Computer Architecure: Build a CPU and RAM by the specifications of Ha
 hardware aspect of the course. 
 
 Project 6: Assembler. Write an assembler to translate assembly into machine language. Assembler is written in Python. 
+
+File description: 
+.hdl - Hardware Description Language, intended for use with nand2tetris hardware simulator 
+.tst - Test scripts for hdl files 
+.out - Output from hdl testing 
+.cmp - Compare files for testing hdl 
+.asm - Hack assembly 
+.hack - Hack machine language 
