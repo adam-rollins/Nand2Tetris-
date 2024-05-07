@@ -1,7 +1,7 @@
 # Nand2Tetris-
 Repository of project I have completed for the Nand2Tetris course. 
 
-This course was reated by Noam Nisan and Shimon Schocken. For more information visit https://www.nand2tetris.org/.
+This course was created by Noam Nisan and Shimon Schocken. For more information visit https://www.nand2tetris.org/.
 
 The aim of this course is to build a modern computer from first principals. A brief decription of each completed project
 is given below. 
