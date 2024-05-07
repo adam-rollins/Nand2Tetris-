@@ -21,6 +21,12 @@ hardware aspect of the course.
 
 Project 6: Assembler. Write an assembler to translate assembly into machine language. Assembler is written in Python. 
 
+Project 7: Virtual Machine pt 1: Write a virtual machine translator to translate vm code into assembly. This project 
+only handles memory segment and stack arithmetic/logic commands. Translator written in python. 
+
+Project 8: Virtual Machine pt 2: Write a virtual machine translaotor to translate vm code into assembly. This translator 
+can handle directories worth of vm code as well as function call and program control commands. 
+
 File description: 
 .hdl - Hardware Description Language, intended for use with nand2tetris hardware simulator 
 .tst - Test scripts for hdl files 
@@ -28,3 +34,5 @@ File description:
 .cmp - Compare files for testing hdl 
 .asm - Hack assembly 
 .hack - Hack machine language 
+.vm - Virtual machine Code 
+.vmE - virtual machine code intended for use with the VM Emulator 
